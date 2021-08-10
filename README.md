@@ -6,7 +6,7 @@ topics:
 2. Histogram processing
 3. Compression: loco-i compression, calic (koray nai but bolsilo)
 4. Filtering: spatial and frequency domain filtering
-5: Boundary extraction and Segmentation
+5. Boundary extraction and Segmentation
 
 AS lab 
 1: Morphological operations 
