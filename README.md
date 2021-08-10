@@ -1,6 +1,7 @@
 # Digital-Image-Processing
-This repository contains practical implementation of image processing using python in google colab
-topics:
+This repository contains practical implementation of image processing using python in google colab.
+
+Topics:
 
 1. Intro to colab and DIP
 2. Channel Separation
