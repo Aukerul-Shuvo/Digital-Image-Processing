@@ -2,12 +2,12 @@
 This repository contains practical implementation of image processing using python in google colab
 topics:
 
-1. intro to colab and DIP
-2. histogram processing
-3.compression: loco-i compression, calic (koray nai but bolsilo)
+1. Intro to colab and DIP
+2. Histogram processing
+3. Compression: loco-i compression, calic (koray nai but bolsilo)
 4. Filtering: spatial and frequency domain filtering
-5: boundary extraction and segmentation
+5: Boundary extraction and Segmentation
 
 AS lab 
-1 : morphological operations 
+1: Morphological operations 
 2: Wavelet Transformation
