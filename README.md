@@ -9,5 +9,5 @@ topics:
 5. Boundary extraction and Segmentation
 
 AS lab 
-1: Morphological operations 
-2: Wavelet Transformation
+1. Morphological operations 
+2. Wavelet Transformation
